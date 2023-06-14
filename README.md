@@ -40,9 +40,11 @@ Homework 3 - Reinforcement Learning
 
 
 ## Installation
-  ##Homework 1 - Training Artificial Neural Network
-  ##Homework 2 - Evolutionary Algorithms
+  #Homework 1 - Training Artificial Neural Network
+  #Homework 2 - Evolutionary Algorithms
+  ```
   pip install -r requirements.txt
+  ```
   
   
   #Homework 3 - Reinforcement Learning:
