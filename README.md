@@ -45,7 +45,7 @@ Homework 3 - Reinforcement Learning
   pip install -r requirements.txt
   
   
-  #Homework 3 - Reinforcement Learning
+  #Homework 3 - Reinforcement Learning:
   '''
   pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
   pip install wheel==0.38.4
