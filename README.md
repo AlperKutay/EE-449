@@ -11,7 +11,7 @@ Homework 3 - Reinforcement Learning
 - [Installation](#installation)
 
 ## Project Description
-  Homework 1 - Training Artificial Neural Network
+  Homework 1 - Training Artificial Neural Network\n
 
   In this homework, you will perform experiments on artificial neural network (ANN) training and draw
   conclusions from the experimental results. You will partially implement and train multi layer perceptron
