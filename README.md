@@ -1,8 +1,10 @@
 # EE-449
 # Project Name
 
-*Homework 1 - Training Artificial Neural Network \n
+*Homework 1 - Training Artificial Neural Network 
+
 *Homework 2 - Evolutionary Algorithms
+
 *Homework 3 - Reinforcement Learning
 
 ## Table of Contents
