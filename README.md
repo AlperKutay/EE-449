@@ -45,10 +45,11 @@ Homework 3 - Reinforcement Learning
   pip install -r requirements.txt
   
   
-  ##Homework 3 - Reinforcement Learning
-  
+  #Homework 3 - Reinforcement Learning
+  '''
   pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-  "pip install wheel==0.38.4"
-  !pip install setuptools==65.5.0 
+  pip install wheel==0.38.4
+  pip install setuptools==65.5.0 
   pip install gym_super_mario_bros==7.3.0 nes_py stable-baselines3[extra]
+  '''
 
