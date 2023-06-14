@@ -9,9 +9,6 @@ Homework 3 - Reinforcement Learning
 
 - [Project Description](#project-description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
   Homework 1 - Training Artificial Neural Network
