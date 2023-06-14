@@ -11,7 +11,7 @@ Homework 3 - Reinforcement Learning
 - [Installation](#installation)
 
 ## Project Description
-  Homework 1 - Training Artificial Neural Network\n
+  Homework 1 - Training Artificial Neural Network
 
   In this homework, you will perform experiments on artificial neural network (ANN) training and draw
   conclusions from the experimental results. You will partially implement and train multi layer perceptron
@@ -19,6 +19,7 @@ Homework 3 - Reinforcement Learning
   link provided in the references [2, 3] to understand the usage of the libraries.
 
   Homework 2 - Evolutionary Algorithms
+  
   In this homework, you will perform experiments on evolutionary algorithm and draw conclusions from
   the experimental results. The task is to create an image made of filled circles, visually similar to a given
   RGB source image (painting.png).
@@ -26,6 +27,7 @@ Homework 3 - Reinforcement Learning
   images. 
 
   Homework 3 - Reinforcement Learning
+  
   In this homework, you will train a Reinforcement Learning agent in atari environment to win games.
   More specifically, you will create an RL model to play the first stage of the Super Mario Bros game. The
   implementations will be in Python language and you will be using PyTorch [1], OpenAI Gym [2], NES
